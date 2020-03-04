@@ -1,0 +1,8 @@
+name: example-envronment
+channels:
+ - conda-forge
+dependencies:
+ - numpy
+ - matplotlib
+ - basemap
+ - netCDF4
